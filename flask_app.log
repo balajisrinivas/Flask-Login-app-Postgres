@@ -1,0 +1,309 @@
+2021-05-29 08:36:36 INFO __main__.<module>(main.py:39): Entering into app successfully
+2021-05-29 08:36:37 INFO __main__.<module>(main.py:39): Entering into app successfully
+2021-05-29 08:36:39 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:50:41 INFO __main__.<module>(main.py:45): Entering into app successfully
+2021-05-29 08:50:41 INFO __main__.<module>(main.py:45): Entering into app successfully
+2021-05-29 08:50:43 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:52:29 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:52:33 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:53:52 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:09 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:11 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:55:12 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:13 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:55:14 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:15 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:55:18 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:20 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:55:21 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:22 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:55:23 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:24 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:55:25 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:26 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:55:27 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:55:29 INFO __main__.login(main.py:29): Landed in the Login Page (GET Method)
+2021-05-29 08:55:41 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 08:56:53 INFO __main__.register(main.py:40): Landed on the NEW USER REGISTRATION page
+2021-05-29 09:43:04 INFO __main__.<module>(main.py:63): Entering into app successfully
+2021-05-29 09:43:05 INFO __main__.<module>(main.py:63): Entering into app successfully
+2021-05-29 09:43:07 INFO __main__.login(main.py:43): Landed in the Login Page (GET Method)
+2021-05-29 09:43:08 INFO __main__.login(main.py:43): Landed in the Login Page (GET Method)
+2021-05-29 09:43:09 INFO __main__.register(main.py:58): Landed on the NEW USER REGISTRATION page
+2021-05-29 09:43:10 INFO __main__.login(main.py:43): Landed in the Login Page (GET Method)
+2021-05-29 09:43:18 INFO __main__.register(main.py:58): Landed on the NEW USER REGISTRATION page
+2021-05-29 09:43:32 INFO __main__.register(main.py:58): Landed on the NEW USER REGISTRATION page
+2021-05-29 09:44:15 INFO __main__.register(main.py:58): Landed on the NEW USER REGISTRATION page
+2021-05-29 09:44:22 INFO __main__.register(main.py:53): Fetched data from registration form. 
+ username: balaji, 
+ email: b@gmail.com 
+ password: 7894pla
+2021-05-29 09:45:35 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 09:45:36 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 09:45:38 INFO __main__.login(main.py:43): Landed in the Login Page (GET Method)
+2021-05-29 09:45:45 INFO __main__.register(main.py:59): Landed on the NEW USER REGISTRATION page
+2021-05-29 09:45:51 INFO __main__.register(main.py:53): Fetched data from registration form. 
+ username: balaji 
+ email: b@gmail.com 
+ password: 7845120
+2021-05-29 10:08:35 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:08:42 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:10:03 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:10:13 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:10:26 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:10:35 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:10:48 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:10:55 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:11:01 INFO __main__.<module>(main.py:64): Entering into app successfully
+2021-05-29 10:12:08 INFO __main__.<module>(main.py:66): Entering into app successfully
+2021-05-29 10:14:13 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:14:14 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:19:02 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:19:15 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:19:15 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:20:17 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:20:18 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:21:40 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:21:41 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:22:30 INFO __main__.<module>(main.py:15): Connected to the database
+2021-05-29 10:22:30 INFO __main__.<module>(main.py:76): Entering into app successfully
+2021-05-29 10:23:26 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:23:26 INFO __main__.<module>(main.py:76): Entering into app successfully
+2021-05-29 10:25:02 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:25:02 INFO __main__.<module>(main.py:34): Table created successfully
+2021-05-29 10:25:02 INFO __main__.<module>(main.py:76): Entering into app successfully
+2021-05-29 10:25:05 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:25:05 INFO __main__.<module>(main.py:34): Table created successfully
+2021-05-29 10:25:05 INFO __main__.<module>(main.py:77): Entering into app successfully
+2021-05-29 10:27:50 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:27:50 INFO __main__.<module>(main.py:34): Table created successfully
+2021-05-29 10:27:50 INFO __main__.<module>(main.py:78): Entering into app successfully
+2021-05-29 10:37:58 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:37:58 INFO __main__.<module>(main.py:34): Table created successfully
+2021-05-29 10:37:58 INFO __main__.<module>(main.py:78): Entering into app successfully
+2021-05-29 10:38:11 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:38:11 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:38:11 INFO __main__.<module>(main.py:78): Entering into app successfully
+2021-05-29 10:39:10 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:39:10 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:39:10 INFO __main__.<module>(main.py:78): Entering into app successfully
+2021-05-29 10:39:46 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:39:46 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:39:46 INFO __main__.<module>(main.py:78): Entering into app successfully
+2021-05-29 10:39:56 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:39:56 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:39:56 INFO __main__.<module>(main.py:78): Entering into app successfully
+2021-05-29 10:40:51 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:40:51 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:40:51 INFO __main__.<module>(main.py:75): Entering into app successfully
+2021-05-29 10:41:26 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:41:26 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:41:26 INFO __main__.<module>(main.py:76): Entering into app successfully
+2021-05-29 10:42:04 INFO __main__.login(main.py:56): Landed in the Login Page (GET Method)
+2021-05-29 10:42:06 INFO __main__.register(main.py:71): Landed on the NEW USER REGISTRATION page
+2021-05-29 10:42:23 INFO __main__.register(main.py:68): Users added. adam, adam@gmail.com, qwerty to the database!!
+2021-05-29 10:44:28 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:44:28 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:44:28 INFO __main__.<module>(main.py:79): Entering into app successfully
+2021-05-29 10:44:50 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:44:50 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:44:50 INFO __main__.<module>(main.py:79): Entering into app successfully
+2021-05-29 10:46:40 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:46:40 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:46:40 INFO __main__.<module>(main.py:79): Entering into app successfully
+2021-05-29 10:46:40 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:46:40 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:46:40 INFO __main__.<module>(main.py:79): Entering into app successfully
+2021-05-29 10:46:56 INFO __main__.login(main.py:56): Landed in the Login Page (GET Method)
+2021-05-29 10:46:59 INFO __main__.register(main.py:74): Landed on the NEW USER REGISTRATION page
+2021-05-29 10:47:06 INFO __main__.register(main.py:70): Users added. adam, b@gmail.com, jhfttygvhgh to the database!!
+2021-05-29 10:50:56 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:50:56 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:50:56 INFO __main__.<module>(main.py:80): Entering into app successfully
+2021-05-29 10:50:57 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:50:57 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:50:57 INFO __main__.<module>(main.py:80): Entering into app successfully
+2021-05-29 10:50:59 INFO __main__.login(main.py:56): Landed in the Login Page (GET Method)
+2021-05-29 10:51:06 INFO __main__.register(main.py:75): Landed on the NEW USER REGISTRATION page
+2021-05-29 10:52:10 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:52:10 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:52:10 INFO __main__.<module>(main.py:80): Entering into app successfully
+2021-05-29 10:52:16 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:52:16 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:52:16 INFO __main__.<module>(main.py:80): Entering into app successfully
+2021-05-29 10:52:17 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:52:17 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:52:17 INFO __main__.<module>(main.py:80): Entering into app successfully
+2021-05-29 10:52:19 INFO __main__.login(main.py:56): Landed in the Login Page (GET Method)
+2021-05-29 10:52:28 INFO __main__.register(main.py:75): Landed on the NEW USER REGISTRATION page
+2021-05-29 10:52:36 INFO __main__.register(main.py:71): Users added. adam, adam@gmail.com, bfiugdfljdsbluig to the database!!
+2021-05-29 10:53:49 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:53:49 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:53:49 INFO __main__.<module>(main.py:82): Entering into app successfully
+2021-05-29 10:54:12 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 10:54:12 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 10:54:12 INFO __main__.<module>(main.py:82): Entering into app successfully
+2021-05-29 11:00:44 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:00:45 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:00:45 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:00:45 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:00:45 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:00:45 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:00:48 INFO __main__.login(main.py:60): Landed in the Login Page (GET Method)
+2021-05-29 11:00:57 INFO __main__.login(main.py:48): Data entered into the login page, username is balaji, and password is 090909
+2021-05-29 11:05:28 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:05:28 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:05:28 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:05:29 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:05:29 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:05:29 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:05:33 INFO __main__.login(main.py:60): Landed in the Login Page (GET Method)
+2021-05-29 11:05:36 INFO __main__.register(main.py:81): Landed on the NEW USER REGISTRATION page
+2021-05-29 11:05:44 INFO __main__.login(main.py:60): Landed in the Login Page (GET Method)
+2021-05-29 11:05:50 INFO __main__.login(main.py:48): Data entered into the login page, username is balaji, and password is 123
+2021-05-29 11:06:27 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:06:27 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:06:27 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:06:30 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:06:31 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:06:31 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:06:31 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:06:32 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:06:32 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:06:33 INFO __main__.login(main.py:60): Landed in the Login Page (GET Method)
+2021-05-29 11:06:39 INFO __main__.login(main.py:48): Data entered into the login page, username is balaji, and password is 123
+2021-05-29 11:06:39 INFO __main__.login(main.py:51): <User 'balaji'>
+2021-05-29 11:06:39 WARNING __main__.login(main.py:57): Validation incorrect. Redirecting to the login page.
+2021-05-29 11:07:11 INFO __main__.login(main.py:48): Data entered into the login page, username is uyuyofu, and password is khijlk
+2021-05-29 11:07:11 INFO __main__.login(main.py:51): None
+2021-05-29 11:07:11 WARNING __main__.login(main.py:57): Validation incorrect. Redirecting to the login page.
+2021-05-29 11:07:59 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:07:59 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:07:59 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:08:21 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:08:21 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:08:21 INFO __main__.<module>(main.py:91): Entering into app successfully
+2021-05-29 11:08:31 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:08:31 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:08:31 INFO __main__.<module>(main.py:92): Entering into app successfully
+2021-05-29 11:08:49 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:08:49 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:08:49 INFO __main__.<module>(main.py:92): Entering into app successfully
+2021-05-29 11:11:37 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:11:37 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:11:37 INFO __main__.<module>(main.py:96): Entering into app successfully
+2021-05-29 11:11:38 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:11:38 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:11:38 INFO __main__.<module>(main.py:96): Entering into app successfully
+2021-05-29 11:11:40 INFO __main__.login(main.py:64): Landed in the Login Page (GET Method)
+2021-05-29 11:12:24 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:12:24 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:12:24 INFO __main__.<module>(main.py:96): Entering into app successfully
+2021-05-29 11:12:34 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:12:34 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:12:34 INFO __main__.<module>(main.py:96): Entering into app successfully
+2021-05-29 11:12:35 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:12:35 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:12:35 INFO __main__.<module>(main.py:96): Entering into app successfully
+2021-05-29 11:12:37 INFO __main__.login(main.py:64): Landed in the Login Page (GET Method)
+2021-05-29 11:13:05 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:13:05 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:13:05 INFO __main__.<module>(main.py:96): Entering into app successfully
+2021-05-29 11:13:09 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:13:09 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:13:09 INFO __main__.<module>(main.py:96): Entering into app successfully
+2021-05-29 11:13:10 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:13:10 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:13:10 INFO __main__.<module>(main.py:96): Entering into app successfully
+2021-05-29 11:13:13 INFO __main__.login(main.py:64): Landed in the Login Page (GET Method)
+2021-05-29 11:13:18 INFO __main__.login(main.py:64): Landed in the Login Page (GET Method)
+2021-05-29 11:13:26 INFO __main__.login(main.py:64): Landed in the Login Page (GET Method)
+2021-05-29 11:13:32 INFO __main__.login(main.py:64): Landed in the Login Page (GET Method)
+2021-05-29 11:13:51 INFO __main__.<module>(main.py:15): Connected to the postgres database
+2021-05-29 11:13:51 INFO __main__.<module>(main.py:34): Tables created successfully
+2021-05-29 11:13:51 INFO __main__.<module>(main.py:97): Entering into app successfully
+2021-05-29 11:14:11 INFO __main__.login(main.py:64): Landed in the Login Page (GET Method)
+2021-05-29 11:14:20 INFO __main__.login(main.py:51): Data entered into the login page, username is balaji, and password is 123
+2021-05-29 11:14:20 INFO __main__.login(main.py:54): Login validation returned <User 'balaji'>
+2021-05-29 11:47:21 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:47:21 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:47:21 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:48:08 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:48:08 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:48:08 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:48:08 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:48:09 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:48:09 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:48:20 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:48:27 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:48:43 INFO __main__.login(main.py:52): Data entered into the login page, username is balaji, and password is 123
+2021-05-29 11:48:43 INFO __main__.login(main.py:55): Login validation returned <User 'balaji'>
+2021-05-29 11:48:43 INFO __main__.login(main.py:59): Validation successful. Entering in to the next page
+2021-05-29 11:48:43 INFO __main__.home(main.py:41): Entered the home page
+2021-05-29 11:48:52 INFO __main__.home(main.py:41): Entered the home page
+2021-05-29 11:48:55 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:49:24 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:49:24 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:49:24 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:49:25 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:49:25 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:49:25 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:49:27 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:49:37 INFO __main__.login(main.py:52): Data entered into the login page, username is balaji, and password is 123
+2021-05-29 11:49:37 INFO __main__.login(main.py:55): Login validation returned <User 'balaji'>
+2021-05-29 11:49:37 INFO __main__.login(main.py:59): Validation successful. Entering in to the next page
+2021-05-29 11:49:37 INFO __main__.home(main.py:41): Entered the home page
+2021-05-29 11:49:43 INFO __main__.home(main.py:41): Entered the home page
+2021-05-29 11:49:46 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:49:48 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:49:51 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:56:01 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:56:01 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:56:01 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:56:02 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:56:02 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:56:02 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:56:04 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:56:33 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:56:33 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:56:33 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:56:37 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:56:37 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:56:37 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:56:58 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:56:58 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:56:58 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:57:23 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:57:23 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:57:23 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:57:24 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:57:24 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:57:24 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:57:26 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:57:32 INFO __main__.login(main.py:52): Data entered into the login page, username is balaji, and password is 123
+2021-05-29 11:57:32 INFO __main__.login(main.py:55): Login validation returned <User 'balaji'>
+2021-05-29 11:57:32 INFO __main__.login(main.py:59): Validation successful. Entering in to the next page
+2021-05-29 11:57:32 INFO __main__.home(main.py:41): Entered the home page
+2021-05-29 11:57:53 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:57:53 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:57:53 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:57:54 INFO __main__.<module>(main.py:16): Connected to the postgres database
+2021-05-29 11:57:54 INFO __main__.<module>(main.py:35): Tables created successfully
+2021-05-29 11:57:54 INFO __main__.<module>(main.py:98): Entering into app successfully
+2021-05-29 11:57:56 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:58:11 INFO __main__.login(main.py:52): Data entered into the login page, username is balaji, and password is 123
+2021-05-29 11:58:11 INFO __main__.login(main.py:55): Login validation returned <User 'balaji'>
+2021-05-29 11:58:11 INFO __main__.login(main.py:59): Validation successful. Entering in to the next page
+2021-05-29 11:58:11 INFO __main__.home(main.py:41): Entered the home page
+2021-05-29 11:58:25 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:58:39 INFO __main__.register(main.py:86): Landed on the NEW USER REGISTRATION page
+2021-05-29 11:58:41 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:58:43 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:58:44 INFO __main__.register(main.py:86): Landed on the NEW USER REGISTRATION page
+2021-05-29 11:58:45 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:58:46 INFO __main__.register(main.py:86): Landed on the NEW USER REGISTRATION page
+2021-05-29 11:58:48 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:58:49 INFO __main__.register(main.py:86): Landed on the NEW USER REGISTRATION page
+2021-05-29 11:58:50 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)
+2021-05-29 11:58:51 INFO __main__.register(main.py:86): Landed on the NEW USER REGISTRATION page
+2021-05-29 11:58:53 INFO __main__.login(main.py:65): Landed in the Login Page (GET Method)

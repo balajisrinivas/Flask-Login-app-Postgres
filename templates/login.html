@@ -1,0 +1,12 @@
+{% extends "base-template.html" %}
+{% block title %} Registration page {% endblock %}
+{% block content %}
+<body>
+    <form action="#" method="post">
+        Username: <input type="text" name="username"/> <br>
+        Password: <input type="password" name="password"/> <br>
+        <input type="submit" value="Login">
+    </form>
+    <a href={{url_for('register')}}>New User? Click here</a>
+</body>
+{% endblock %}
